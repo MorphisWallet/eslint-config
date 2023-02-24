@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:MorphisWallet/configs.git"
+    "url": "git@github.com:MorphisWallet/eslint-config.git"
   },
   "license": "MIT",
   "scripts": {
