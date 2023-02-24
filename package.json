@@ -2,7 +2,7 @@
   "name": "@morphis-labs/eslint-config",
   "version": "1.0.3",
   "author": "Morphis Labs<morphiswallet@gmail.com>",
-  "description": "",
+  "description": "morphis public eslint configuration",
   "keywords": [
     "morphis",
     "configs",
@@ -19,18 +19,25 @@
     "url": "git@github.com:MorphisWallet/eslint-config.git"
   },
   "license": "MIT",
+  "main": ".eslintrc.js",
+  "prettier": "@morphis-labs/prettier-config",
   "scripts": {
     "lint": "npx eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "@morphis-labs/prettier-config": "^0.0.1",
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
     "eslint": "^8.34.0",
     "eslint-config-next": "^13.2.1",
     "eslint-config-prettier": "^8.6.0",
-    "eslint-define-config": "^1.15.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "eslint": "^8.34.0",
     "prettier": "^2.8.4",
     "typescript": "^4.9.5"
   }
