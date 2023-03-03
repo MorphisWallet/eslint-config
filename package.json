@@ -26,7 +26,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@morphis-labs/prettier-config": "^0.0.1",
+    "@morphis-labs/prettier-config": "^0.0.2",
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
     "eslint": "^8.34.0",

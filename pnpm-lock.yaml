@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@morphis-labs/prettier-config': ^0.0.1
+  '@morphis-labs/prettier-config': ^0.0.2
   '@typescript-eslint/eslint-plugin': ^5.53.0
   '@typescript-eslint/parser': ^5.53.0
   eslint: ^8.34.0
@@ -13,7 +13,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  '@morphis-labs/prettier-config': 0.0.1
+  '@morphis-labs/prettier-config': 0.0.2
   '@typescript-eslint/eslint-plugin': 5.53.0_ny4s7qc6yg74faf3d6xty2ofzy
   '@typescript-eslint/parser': 5.53.0_7kw3g6rralp5ps6mg3uyzz6azm
   eslint: 8.34.0
@@ -63,8 +63,8 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: false
 
-  /@morphis-labs/prettier-config/0.0.1:
-    resolution: {integrity: sha512-RxhUR5352yxa5AhJyoR7g2tmd5yKlGAZx3kD4YrWjkYfybUFRpsrRNOMZlh3c6i0EQDbU6EJf8EHX7Z8naCZIA==}
+  /@morphis-labs/prettier-config/0.0.2:
+    resolution: {integrity: sha512-ENa3MNQaSq03/OHe6u/6a/oZLJiMY5SZ4bMwMyiSdmna9ne6GH2JJ6y5iao9XJk+0Zja0tRuink0yCYGbKVZMQ==}
     dev: false
 
   /@nodelib/fs.scandir/2.1.5:
